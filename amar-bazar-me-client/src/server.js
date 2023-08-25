@@ -1,3 +1,1 @@
-export const server = "https://amar-bazar.vercel.app/api/v2";
-
-
+export const server = "https://amar-bazar-me-server.vercel.app/api/v2";
